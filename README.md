@@ -53,7 +53,7 @@ for t=0, 1, 0.01 do
 end
 ```
 
-<img src="./examples/unclamped knot vector.png"/>
+<img src="./examples/unclamped knot vector.PNG"/>
 
 
 ### Clamped Knot Vector
@@ -86,7 +86,7 @@ for t=0, 1, 0.01 do
 end
 ```
 
-<img src="./examples/clamped knot vector.png"/>
+<img src="./examples/clamped knot vector.PNG"/>
 
 
 ### Closed Curves
@@ -133,7 +133,7 @@ for t=0, 1, 0.01 do
 end
 ```
 
-<img src="./examples/closed curves.png"/>
+<img src="./examples/closed curves.PNG"/>
 
 
 ### Non-Uniform Rational
@@ -174,7 +174,7 @@ for t=0, 1, 0.01 do
 end
 ```
 
-<img src="./examples/non-uniform rational.png"/>
+<img src="./examples/non-uniform rational.PNG"/>
 
 
 ## API
