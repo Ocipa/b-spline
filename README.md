@@ -195,6 +195,15 @@ bSpline.interpolate(t, degree, points, knots, weights)
 ```
 
 ```lua
+bSpline.points2UnclampedKnots(degree, points)
+-- degree: degree of the curve.
+-- points: control points that will be interpolated. Can be vectors of
+  -- any dumensionality ([x, y], [x, y, z], ...)
+
+--> returns: array of knots
+```
+
+```lua
 bSpline.points2ClampedKnots(degree, points)
 -- degree: degree of the curve.
 -- points: control points that will be interpolated. Can be vectors of
